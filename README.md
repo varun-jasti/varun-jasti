@@ -16,9 +16,9 @@ I enjoy building **scalable ML-driven applications**, integrating models into ba
 - End-to-End ML Pipelines  
 - Model Training, Evaluation & Optimization  
 - Backend Development for ML Applications  
-- ☁️ Cloud Computing with **AWS** (ML deployment, scalable systems)  
-- 🤖 **Generative AI** & Foundation Models  
-- 🧠 **Agentic AI** (AI agents, tool-using systems, autonomous workflows)  
+- Cloud Computing with **AWS** (ML deployment, scalable systems)  
+- **Generative AI** & Foundation Models  
+- **Agentic AI** (AI agents, tool-using systems, autonomous workflows)  
 
 
 ---
@@ -68,12 +68,6 @@ I enjoy building **scalable ML-driven applications**, integrating models into ba
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun-jasti&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-jasti&layout=compact&theme=dark)
-
----
-
 ## 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswanadh-varun-kumar-jasti/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun-jasti)
@@ -81,16 +75,6 @@ I enjoy building **scalable ML-driven applications**, integrating models into ba
 ---
 
 ⭐ *Always open to internships, research roles, and entry-level AI/ML opportunities.*
-
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun-jasti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-[![](https://visitcount.itsvg.in/api?id=varun-jasti&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 🏆 Achievements & Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varun-jasti&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
